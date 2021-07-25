@@ -1,2 +1,5 @@
 # React-TODO
-Created with CodeSandbox
+Reactを用いてTODOアプリを作成しました。 <br>
+***
+CodeSandboxを使用しています。
+***
